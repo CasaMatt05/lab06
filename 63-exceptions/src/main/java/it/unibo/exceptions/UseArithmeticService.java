@@ -52,6 +52,7 @@ public final class UseArithmeticService {
         while(true){
             try{
                 server.sendData(message);
+                break;
             }
             catch(IOException e){
                 System.out.println("IO error");            
