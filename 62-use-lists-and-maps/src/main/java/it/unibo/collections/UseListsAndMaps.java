@@ -47,6 +47,7 @@ public final class UseListsAndMaps {
          * LinkedList, using the collections of point 5. In order to measure
          * times, use as example TestPerformance.java.
          */
+        for(){}
         /*
          * 7) Build a new Map that associates to each continent's name its
          * population:
